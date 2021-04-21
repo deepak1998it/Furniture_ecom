@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Chair",
+        "title": "comfortable ",
+        "description": "Its primary features are two pieces of a durable material, attached as back and seat to one another at a 90° or slightly greater angle, with usually the four corners of the horizontal seat attached in turn to four legs—or other parts of the seat's underside attached to three legs or to a shaft about which a four-arm ",
+        "image_url": "https://image.architonic.com/img_pro2-4/157/1080/hd-chair-stacking-3-222-b.jpg",
+        "price": "70"
+    },
+    {
+        "id": 2,
+        "name": "Sofa Set",
+        "title": "comfortable and light weight",
+        "description": "A couch, also known as a sofa, settee, futon, or chesterfield (see Etymology below), is a piece of furniture for seating two or three people. It is commonly found in the form of a bench, with upholstered armrests, and often fitted with springs and tailored cushions.",
+        "image_url": "https://rukminim1.flixcart.com/image/416/416/k3670cw0/sofa-sectional/h/2/3/black-orange-synthetic-sl-00004-sekar-lifestyle-black-orange-original-imafmcdbajgcteqv.jpeg?q=70",
+        "price": "90"
+    },
+    {
+        "id": 3,
+        "name": "Gray Chair",
+        "title": "Light weight ",
+        "description": "Mid Century modern arm chair Walnut finished legs Waffle tufted back and seat  Chair Dimensions (Overall): 32.68 Inches (H) x 31.5 Inches (W) x 32.28 Inches (D), Weight 48.17 Pounds, and Holds up to: 250 Pounds Seat Back Dimensions: 14.68 Inches (H) x 20.5 Inches (W), Seat Dimensions: 20.5 Inches [W], 21.5 Inches [D], & 18 Inches [floor to seat top]  Assembly required, tools provided",
+        "image_url": "https://ii1.pepperfry.com/media/catalog/product/p/l/568x625/plush-executive-chair-in-grey-colour-by-workspace-interio-plush-executive-chair-in-grey-colour-by-wo-b5bsdz.jpg",
+        "price": "80"
+    },
+    {
+        "id": 4,
+        "name": "Solid chair",
+        "title": "Solid chair ",
+        "description": "Wide selection of Dining Tables, Chairs, other Kitchen Furniture. Explore now. Top Brands. Easy & Fast Delivery. Great Offers. No Cost EMI Available. Huge Selection. Low Prices. Best Deals.        ",
+        "image_url": "https://ii1.pepperfry.com/media/catalog/product/a/a/568x625/aarmo-wing-chair-in-grey-colour-by-vittoria-aarmo-wing-chair-in-grey-colour-by-vittoria-vqmnr7.jpg",
+        "price": "96"
+    }
+]
